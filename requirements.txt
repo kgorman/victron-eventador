@@ -1,6 +1,6 @@
 dbus-python
 gobject
-traceback
 signal
 lxml
 collections
+traceback2
